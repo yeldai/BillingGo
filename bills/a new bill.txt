@@ -1,0 +1,5 @@
+Bill details
+cake:                     ...$55 
+pie:                      ...$22 
+tip:                      ...$5.00
+total:                    ...$82.00
